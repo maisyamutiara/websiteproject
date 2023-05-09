@@ -130,7 +130,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(rgba(0,0,0,0.5),#393e46),url(assets/image/banner.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),#393e46),url(https://storage.googleapis.com/dicoding-storage-1802/banner.jpg);
     background-size: cover;
     background-position: center;
     min-height: 100vh;
